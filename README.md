@@ -17,9 +17,9 @@ Our regular calls are {insert times}. You can find the event in the global DRF c
 
 |    Name  | GH Handle |  Discord Handle |  LinkedIn  | 
 |    ---   |     ---   |      ---        |     ---    |
-| person 1 | @ awesome |     @ person    | @ linkedin |
-| person 2 | @ awesome |     @ person    | @ linkedin |
-| person 3 | @ awesome |     @ person    | @ linkedin |
+| Divya Mohan | @ divya-mohan0209 |     @ ar.iadne    | @ divya-mohan0209 |
+| Elizabeth R Acosta  | @ lizacosta |     @ but_on_disc0rd    | @ linkedin |
+| Pratik Parmar | @   |     @ hackyroot    | @ linkedin |
 
 
 If you have any questions, please check the [DRF FAQ](https://github.com/DevRel-Foundation#faq) first. **If your question is not answered in the FAQ**:
