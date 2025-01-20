@@ -19,7 +19,7 @@ Our regular calls are {insert times}. You can find the event in the global DRF c
 |    ---   |     ---   |      ---        |     ---    |
 | Divya Mohan | [@ divya-mohan0209](https://github.com/divya-mohan0209) |     @ ar.iadne    | [@ divya-mohan0209](https://linkedin.com/in/divya-mohan0209) |
 | Elizabeth R Acosta  | [@ lizacosta](https://github.com/lizacosta) |     @ but_on_disc0rd    | [@ lizacostalinkedin](https://www.linkedin.com/in/lizacostalinkedin/) |
-| Pratik Parmar | @   |     @ hackyroot    | [@ pratikparmar1](https://linkedin.com/in/pratikparmar1) |
+| Pratik Parmar | [@ HackyRoot](https://github.com/HackyRoot)  |     @ hackyroot    | [@ pratikparmar1](https://linkedin.com/in/pratikparmar1) |
 
 
 If you have any questions, please check the [DRF FAQ](https://github.com/DevRel-Foundation#faq) first. **If your question is not answered in the FAQ**:
