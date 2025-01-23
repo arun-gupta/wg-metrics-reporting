@@ -18,7 +18,7 @@ Our regular calls are {insert times}. You can find the event in the global DRF c
 |    Name  | GH Handle |  Discord Handle |  LinkedIn  | 
 |    ---   |     ---   |      ---        |     ---    |
 | Divya Mohan | [@ divya-mohan0209](https://github.com/divya-mohan0209) |     @ ar.iadne    | [@ divya-mohan0209](https://linkedin.com/in/divya-mohan0209) |
-| Elizabeth R Acosta  | [@ lizacosta](https://github.com/lizacosta) |     @ but_on_disc0rd    | [@ lizacostalinkedin](https://www.linkedin.com/in/lizacostalinkedin/) |
+| Liz Acosta  | [@ liz-acosta](https://github.com/lizacosta) |     @ but_on_disc0rd    | [@ lizacostalinkedin](https://www.linkedin.com/in/lizacostalinkedin/) |
 | Pratik Parmar | [@ HackyRoot](https://github.com/HackyRoot)  |     @ hackyroot    | [@ pratikparmar1](https://linkedin.com/in/pratikparmar1) |
 
 
